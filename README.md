@@ -1,3 +1,14 @@
+custom_spec_com_react
+
+<img src="https://user-images.githubusercontent.com/81074668/138897493-af985133-d92c-4878-b66a-0a27f6e563ba.jpg" align="center" width="850">
+
+
+# Be Careful
+This project use Mysql database
+
+You can't run directly 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
