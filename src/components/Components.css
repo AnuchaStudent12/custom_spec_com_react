@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,700&display=swap');
+
+
+.price{
+  position: relative;
+  bottom: 550px;
+  max-width: fit-content;
+  left: 1400px;
+  font-weight: 800;
+  font-family: 'Roboto', sans-serif;
+  
+ 
+   
+   
+}
+.info{
+    position: relative;
+    max-width: fit-content;
+    margin: 25px;
+    top:100px;
+    left: 200px;
+    font-weight: 800;
+    font-family: 'Roboto', sans-serif;
+    
+    
+   
+   
+    
+}
+.search{
+  position: relative;
+  bottom: 1000px;
+  margin:50px;
+  font-family: 'Roboto', sans-serif;
+}
+p{
+     background: -webkit-linear-gradient(#D9D9D9, #FFFFFF );
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+}
+d{
+    background: -webkit-linear-gradient(#D9D9D9, #FFFFFF );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.buttongropo{
+position: relative;
+margin: 25px;
+bottom: 325px;
+
+}
+.savepage{
+  position: relative;
+  margin: 25px;
+  bottom: 325px;
+}
