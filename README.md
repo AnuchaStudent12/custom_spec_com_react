@@ -4,9 +4,9 @@ custom_spec_com_react
 
 
 # Be Careful
-This project use Mysql database
+This project use Mysql database.
 
-You can't run directly 
+You can't run directly.
 
 
 # Getting Started with Create React App
